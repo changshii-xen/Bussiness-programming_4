@@ -1,0 +1,98 @@
+Business Prac Day 4 activity
+
+SCRUM
+The Scrum can be described as a technique which is continously updated.It breaks a big project into sprints,which are a short period of time which allows you to work on something the present how far you've gotten.It uses alot of communication.
+
+Advantages of using SCRUM technique:
+
+Flexibility and Adaptability
+
+Creativity and Innovation
+
+Time-to-Market
+
+Lower Costs and Improved Quality
+
+Improved Customer Satisfaction
+
+Disadvantages of Agile and Scrum
+
+Training and Skill Required- Requires experienced and committed members
+
+Organizational Transformation-may require changes to organisation to make it work
+
+Scalability
+
+Integration with Project/Program Management
+
+
+FEATURE DRIVEN DEVELOPMENT (FDD)
+This technique can be described as one where the is functional software at all times.This technique works well because you build on working parts of software to complete the entire project.
+
+Advantages of using FDD technique:
+
+Adaptive to changing environment (Flexible)
+
+FDD ensures customer satisfaction through active involvement of users.
+
+Least documentation
+
+Reduces risks of development since reviews are done regularly
+
+Disadvantages of using FDD technique
+
+So if the customer representative is not clear about the product features, the development process will go out of the track
+
+Lack of documentation can be a disadvantage if some new members join in the middle of the launch.
+
+
+Time consuming and wastage of resources because of constant change of requirements
+
+More helpful for management than developer than developers who have to cope with ever changing requirements
+
+These are the key people in this technique-Project Manager,Chief,Architect,Development Manager,Domain Experts,Class Owners,Chief Programmers
+
+
+XTREME PROGRAMMING (XP)
+This can be regurded as the most simple technique, as it incourages simplicity and client interaction.
+
+Advantages of Xtreme Programming
+
+Fast-Last only for several months
+
+Open communication helps every team member to be up-to-date always
+Reduces Costs-Feedback loop is reduced.
+
+Teamwork 
+
+Disadvantages of Xtreme programming
+
+Location-XP projects are difficult to implement when the customer is away from the developmental team.
+
+Lack of documentation-The constant changes cannot be documented properly. 
+
+Stress-There is a lot of pressure working with tight deadlines.
+
+Code overcomes design-The focus of XP is definitely the code rather than the design. 
+
+
+DYNAMIC SYSTEMS DEVELOPMENT METHODS (DSDM)
+This technique is for projects with very littel time to come up with something,As it focuses on 20% of system requirments and 80% of what the business needs in order to complete any given task.
+
+Advantages of Dynamic Systems Development Model:
+
+Users are highly involved in the development of the system so; they are more likely to get a grip on the software development project
+
+In this model, basic functionality is delivered quickly, with more functionality being delivered at frequent intervals
+
+This method provides an easy access by developers to end-users
+In this kind of development, approach projects are delivered on time and within a specific budget
+ 
+Disadvantages of Dynamic Systems Development Model:
+
+The first thing is DSDM is costly to implement, as it requires users and developers both to be trained to employ it effectively.
+
+It may not be suitable for small organizations or one-time projects
+
+It is a relatively new model, therefore, it is not very common and easy to understand
+
